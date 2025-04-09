@@ -11,6 +11,7 @@
 .svn/
 .swiftpm/
 migrate_working_dir/
+#.env   // Add this if not want to upload on remote while version controlling
 
 # IntelliJ related
 *.iml
